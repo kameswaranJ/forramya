@@ -1,3 +1,4 @@
+#key updated
 on: [push]
 
 name: AzureLoginSample
