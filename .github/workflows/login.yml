@@ -16,5 +16,5 @@ jobs:
         uses: azure/arm-deploy@v1
         with:
           subscriptionId: "e0f25586-2494-41ef-b304-ef8ae650e205"
-          resourceGroupName: "rg-kamesh-c-001'
+          resourceGroupName: "rg-kamesh-c-001"
           template: ./storage_account.json
