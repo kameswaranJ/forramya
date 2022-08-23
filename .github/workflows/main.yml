@@ -1,3 +1,4 @@
+#check
 on: [push]
 
 name: AzureLoginSample
